@@ -22,6 +22,8 @@ Hardware:
 
 -(USB-C Pigtail cable)[https://www.amazon.com/Vovucai-USB-Pigtail-Cable-Connector/dp/B0F31YWTMF/ref=sr_1_1?crid=1RXQQ2EZ76NCP&dib=eyJ2IjoiMSJ9.yyjKrLNPQ4Wdq5RnwHoek245IVgjFG8n1iztcM-Ym4VwS-_U2UUXfrBoRNkN2BWY8cXcdICQR2KUNG_lTAA-5rXNFhr-jXZvmLSDBVDODbiZC0OzXdMSgrKDr_cwk3WsxxijoRiEh8cY8kbyw4LVsaHSNlM4Fh4qoMy-w_m1lRk_8zkASVMQQKvZdJgXj6wL0O4QPGELIZ2MiP6Bkx7Vjo6IB3SeebSSYbPPit5MyETFLU8U13DZol4s6p14ts_CnNjYCnd1c_zz-rO_sm68x4Wafp9YclCn0nBwHVaGjPA.-Skt563I0eEZNAuy-rFlMaZvZyd1cWROdzKyuweaItw&dib_tag=se&keywords=LED%2Bterminal%2Bto%2Busbc&qid=1781877367&s=electronics&sprefix=led%2Bterminal%2Bto%2Bu%2Celectronics%2C648&sr=1-1&th=1]
 
+-(Micro USB Pigtail cable)[https://www.amazon.com/Jxiwfvl-Micro-Pigtail-Power-Cable/dp/B0G29MJ8XR/ref=sr_1_2?crid=1W8J4ZO59SIUN&dib=eyJ2IjoiMSJ9.nZXEPtF3nylkFBEfrjXk01WGw9xAxQfQ7t_RRYHuiDYGVaDteLU2I6-FrDYWKfFaeQULepPl-ai1PTeCE7Yc3EyLvxrEle-nb8O2WsawoWZEE7jznyJZFOP4gz-qpvURWbNw5da-3tDkeWNSJjT3HuAgFZy39Oe-zcL2BAN8hVecbnSyo_pXTgjqx046nmeM6mx9SjbZ7ZE76IBWBI2RoNHhtj_vWjxqTqXuGOKZCos._2NQsQg0UpRX7Ie-i4aGyokqTYHi125kbA__LIXb_1Q&dib_tag=se&keywords=Micro+usb+pigtail+wire&qid=1781879866&sprefix=micro+usb+pigtail+%2Caps%2C682&sr=8-2]
+
 
 Software:
     
