@@ -19,6 +19,7 @@ Hardware:
     
 -[5V/3A LED wall charger](https://www.amazon.com/Belker-Adapter-Supply-Charger-Devices/dp/B08ZSTRDM8/ref=sr_1_25?crid=1YJ29VLFE84HJ&dib=eyJ2IjoiMSJ9.NeIlwrjx4Yk_uYVGwycXr8mjZEANMhgM5vkNdTlZPxI1NDKD4T0OL5jZrQ0ytvLgVZzC8ZnoQZidx3BcJwLcVqD31ri3GEy3UwDk2yhfNXl8TRwUscYjnMb726YxkkMc7sclopYzpqp5FSOAzCFC6sqQMLLqxYBOrCs10kylY0pg4XbTeeyoNS_TgHGEeTgZmAChs2Jk9cL098KTij0jkApq6mKmrEdP6pnt2ecbYiD4jxc4PFB4CN_McBYlYe37Hoh2YR5W3Y2GUKVwajdFl8aMePTvVA3bQu5wYEkgSmw.BK7XZIh77ZHIM3ZKKRhh9-1IsWxAGZXe_p9eejNXJSY&dib_tag=se&keywords=5V%2F3A%2BUSB-C%2Bwall%2Bcharger&qid=1781872172&s=electronics&sprefix=%2Celectronics%2C417&xpid=cI__07ZRsfwm9&th=1)
 
+-(USB-C Pigtail calbe)[https://www.amazon.com/Vovucai-USB-Pigtail-Cable-Connector/dp/B0F31YWTMF/ref=sr_1_1?crid=1RXQQ2EZ76NCP&dib=eyJ2IjoiMSJ9.yyjKrLNPQ4Wdq5RnwHoek245IVgjFG8n1iztcM-Ym4VwS-_U2UUXfrBoRNkN2BWY8cXcdICQR2KUNG_lTAA-5rXNFhr-jXZvmLSDBVDODbiZC0OzXdMSgrKDr_cwk3WsxxijoRiEh8cY8kbyw4LVsaHSNlM4Fh4qoMy-w_m1lRk_8zkASVMQQKvZdJgXj6wL0O4QPGELIZ2MiP6Bkx7Vjo6IB3SeebSSYbPPit5MyETFLU8U13DZol4s6p14ts_CnNjYCnd1c_zz-rO_sm68x4Wafp9YclCn0nBwHVaGjPA.-Skt563I0eEZNAuy-rFlMaZvZyd1cWROdzKyuweaItw&dib_tag=se&keywords=LED%2Bterminal%2Bto%2Busbc&qid=1781877367&s=electronics&sprefix=led%2Bterminal%2Bto%2Bu%2Celectronics%2C648&sr=1-1&th=1]
 
 
 Software:
