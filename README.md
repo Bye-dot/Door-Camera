@@ -12,7 +12,7 @@ Hardware:
 	
 -[Pi Camera Module V3](https://www.amazon.com/gp/product/B0BRY6MVXL/ref=ox_sc_saved_title_1?smid=A7OUC2NYX9CZ5&th=1)
    
--MicroSD card >= 16 GB (idealy A1/A2 rated)
+-[MicroSD card >= 16 GB (idealy A1/A2 rated)](https://www.amazon.com/SanDisk-Ultra%C2%AE-microSDHC-120MB-Class/dp/B08L5HMJVW/ref=sr_1_7?crid=1DX8ZUC7SJ59M&dib=eyJ2IjoiMSJ9.i9VuLoVLR-094lliGpOXsmNxc4tlBxAJjhW4X7p_etaushoTQ_rsy881Mun5K74PDpYJSNACwUzFcVs8UIIccDiIqGKXH2YEjcKzhze0PcO4wOigiha--YcsoVVgSL1Xe47njF-g_NNaPuffBvH5TAjWIj3twjLbJzKzdNtCfw8gkmUdIgiQsGfQNlFJ6QqbYHtvH0KmPkukoGznsn774PSMO48PeVnEedarkBTO49A.PJGlQlKSfrYnM4rK8gf0XoCn_aiLnRBzI0YZwBSCo2M&dib_tag=se&keywords=18gb+micro+sd+card&qid=1793314887&sprefix=18gb+micro+sd+car%2Caps%2C158&sr=8-7)
     
 -[PiSugar 3 1200mAh Raspberry Pi Zero Battery](https://www.pisugar.com/products/pisugar-3-raspberry-pi-zero-battery)
 
