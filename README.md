@@ -12,7 +12,7 @@ Hardware:
 	
 -[Pi Camera Module V3](https://www.amazon.com/gp/product/B0BRY6MVXL/ref=ox_sc_saved_title_1?smid=A7OUC2NYX9CZ5&th=1)
    
--MicroSD card
+-MicroSD card >= 16 GB (idealy A1/A2 rated)
     
 -[PiSugar 3 1200mAh Raspberry Pi Zero Battery](https://www.pisugar.com/products/pisugar-3-raspberry-pi-zero-battery)
 
